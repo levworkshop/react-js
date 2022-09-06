@@ -16,4 +16,4 @@ Projects are written with React, react-router-dom, Joi, Bootstrap and Bootstrap 
 * Input validation with Joi
 * Apply design with Bootstrap
 
-> Each project contains **docs** folder where screen-shots and instruction can be found.
+> Each project contains a **docs** folder where screen-shots and instruction can be found.
